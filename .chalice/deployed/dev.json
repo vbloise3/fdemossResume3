@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "resources": [
+    {
+      "role_name": "fdemossResume3-dev",
+      "role_arn": "arn:aws:iam::001178231653:role/fdemossResume3-dev",
+      "name": "default-role",
+      "resource_type": "iam_role"
+    },
+    {
+      "lambda_arn": "arn:aws:lambda:us-east-1:001178231653:function:fdemossResume3-dev",
+      "name": "api_handler",
+      "resource_type": "lambda_function"
+    },
+    {
+      "name": "rest_api",
+      "rest_api_id": "51491nq3z2",
+      "rest_api_url": "https://51491nq3z2.execute-api.us-east-1.amazonaws.com/api/",
+      "resource_type": "rest_api"
+    }
+  ],
+  "backend": "api"
+}

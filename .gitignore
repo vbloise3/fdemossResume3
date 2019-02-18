@@ -1,0 +1,47 @@
+.chalice/deployments/
+.chalice/venv/
+
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/fdemossResume3Ui/dist
+/fdemossResume3Ui/tmp
+/fdemossResume3Ui/out-tsc
+
+# dependencies
+/fdemossResume3Ui/node_modules
+
+# profiling files
+/fdemossResume3Ui/chrome-profiler-events.json
+/fdemossResume3Ui/speed-measure-plugin.json
+
+# IDEs and editors
+/fdemossResume3Ui/.idea
+/fdemossResume3Ui/.project
+/fdemossResume3Ui/.classpath
+/fdemossResume3Ui/.c9/
+/fdemossResume3Ui/*.launch
+/fdemossResume3Ui/.settings/
+/fdemossResume3Ui/*.sublime-workspace
+
+# IDE - VSCode
+/fdemossResume3Ui/.vscode/*
+/fdemossResume3Ui/!.vscode/settings.json
+/fdemossResume3Ui/!.vscode/tasks.json
+/fdemossResume3Ui/!.vscode/launch.json
+/fdemossResume3Ui/!.vscode/extensions.json
+
+# misc
+/fdemossResume3Ui/.sass-cache
+/fdemossResume3Ui/connect.lock
+/fdemossResume3Ui/coverage
+/fdemossResume3Ui/libpeerconnection.log
+/fdemossResume3Ui/npm-debug.log
+/fdemossResume3Ui/yarn-error.log
+/fdemossResume3Ui/testem.log
+/fdemossResume3Ui/typings
+
+# System Files
+/fdemossResume3Ui/.DS_Store
+/fdemossResume3Ui/Thumbs.db
+/fdemossResume3Ui/.oldgit

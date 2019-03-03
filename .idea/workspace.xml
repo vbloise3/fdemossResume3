@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="374ee6db-29c2-4ac3-bcab-8e2d86e8ce2d" name="Default Changelist" comment="" />
+    <list default="true" id="374ee6db-29c2-4ac3-bcab-8e2d86e8ce2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/FaithDeMossProfile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/FaithDeMossProfile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fdemossResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fdemossResume3Ui/package-lock.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,34 +21,37 @@
         <entry file="file://$PROJECT_DIR$/notes.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.component2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.component2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="155" column="19" lean-forward="true" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+            <state relative-caret-position="435">
+              <caret line="29" column="127" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="127" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.component.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.scss">
+      <file leaf-file-name="app.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="187" column="14" selection-start-line="187" selection-start-column="14" selection-end-line="187" selection-end-column="14" />
+            <state relative-caret-position="1545">
+              <caret line="108" column="12" lean-forward="true" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="personalInterests.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="47" column="215" selection-start-line="47" selection-start-column="215" selection-end-line="47" selection-end-column="215" />
             </state>
           </provider>
         </entry>
@@ -51,35 +60,22 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>mbloise</find>
-      <find>bullet11</find>
-      <find>bullet</find>
+      <find>sm</find>
+      <find>Swedes</find>
     </findStrings>
-    <replaceStrings>
-      <replace>fdemoss</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fdemossResume3Ui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/tsconfig.app.json" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/styles.scss" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/index.html" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.ts" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.html" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/data.service.ts" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/package.json" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/angular.json" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.ts" />
         <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.scss" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.css" />
         <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component2.html" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.html" />
       </list>
     </option>
   </component>
@@ -104,6 +100,8 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-angular/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/node_modules/source-map/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/node_modules/typescript/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/node_modules/webpack-sources/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-optimizer/webpack-loader/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular-devkit/build-webpack/node_modules/@angular-devkit/architect/package.json" />
@@ -116,6 +114,25 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/animations/browser/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/animations/browser/testing/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/animations/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/a11y/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/accordion/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/bidi/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/coercion/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/collections/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/drag-drop/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/keycodes/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/layout/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/node_modules/parse5/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/observers/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/overlay/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/platform/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/portal/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/scrolling/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/stepper/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/table/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/text-field/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/tree/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cli/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/common/http/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/common/http/testing/package.json" />
@@ -160,8 +177,50 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/compiler/testing/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/core/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/core/testing/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/core/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/extended/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/flex/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/grid/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/flex-layout/server/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/forms/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/language-service/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/badge/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/bottom-sheet/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/button-toggle/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/button/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/card/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/checkbox/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/chips/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/core/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/datepicker/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/dialog/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/divider/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/expansion/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/form-field/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/grid-list/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/icon/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/input/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/list/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/menu/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/paginator/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/progress-bar/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/progress-spinner/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/radio/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/select/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/sidenav/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/slide-toggle/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/slider/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/snack-bar/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/sort/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/stepper/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/table/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/tabs/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/toolbar/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/tooltip/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/tree/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/platform-browser-dynamic/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/platform-browser-dynamic/testing/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/platform-browser/animations/package.json" />
@@ -189,6 +248,8 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@babel/types/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@ngtools/webpack/node_modules/@angular-devkit/core/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@ngtools/webpack/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@ngtools/webpack/node_modules/webpack-sources/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@ngtools/webpack/node_modules/webpack-sources/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@ngtools/webpack/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@schematics/angular/library/files/__projectRoot__/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@schematics/angular/package.json" />
@@ -200,6 +261,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/q/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/selenium-webdriver/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/webpack-env/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/webpack-sources/node_modules/source-map/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@types/webpack-sources/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@webassemblyjs/ast/package.json" />
@@ -417,6 +479,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/decamelize/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/decode-uri-component/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/deep-is/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/default-gateway/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/default-require-extensions/node_modules/strip-bom/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/default-require-extensions/package.json" />
@@ -467,7 +530,12 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/es6-promisify/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/escape-html/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/escodegen/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/escodegen/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/eslint-scope/node_modules/estraverse/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/eslint-scope/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/esrecurse/node_modules/estraverse/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/esrecurse/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/estraverse/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/esutils/package.json" />
@@ -509,6 +577,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/extsprintf/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/fast-deep-equal/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/fast-levenshtein/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/fastparse/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/faye-websocket/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/figgy-pudding/package.json" />
@@ -626,6 +695,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/globby/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/globule/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/hammerjs/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/handle-thing/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/handlebars/node_modules/async/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/handlebars/node_modules/source-map/package.json" />
@@ -755,6 +825,10 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul-lib-source-maps/node_modules/source-map/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul-lib-source-maps/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul-reports/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/istanbul/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/jasmine-core/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/jasmine-spec-reporter/examples/node/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/jasmine-spec-reporter/examples/protractor/package.json" />
@@ -798,6 +872,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/less/node_modules/source-map/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/less/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/less/test/import-module/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/levn/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/license-webpack-plugin/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/lie/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/load-json-file/node_modules/pify/package.json" />
@@ -926,6 +1001,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/opn/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/optimist/node_modules/wordwrap/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/optionator/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/original/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/os-browserify/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/os-homedir/package.json" />
@@ -985,6 +1061,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/postcss/node_modules/source-map/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/postcss/node_modules/supports-color/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/postcss/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/prelude-ls/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/preserve/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/process-nextick-args/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/process/package.json" />
@@ -1061,8 +1138,11 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve-url/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/module_dir/zmodules/bbb/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/pathfilter/deep_ref/node_modules/deep/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/resolver/baz/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/resolver/biz/node_modules/garply/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/resolver/incorrect_main/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/resolve/test/subdirs/node_modules/a/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/restore-cursor/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/ret/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/retry/package.json" />
@@ -1151,6 +1231,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/socks-proxy-agent/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/socks/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/source-list-map/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/source-map-loader/node_modules/async/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/source-map-loader/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/source-map-resolve/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/source-map-support/node_modules/source-map/package.json" />
@@ -1256,6 +1337,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/tty-browserify/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/tunnel-agent/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/type-check/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/type-is/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/typedarray/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/typescript/package.json" />
@@ -1339,6 +1421,7 @@
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/which-module/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/which/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/wide-align/package.json" />
+      <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/wordwrap/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/worker-farm/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/wrap-ansi/package.json" />
       <path value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/wrappy/package.json" />
@@ -1367,7 +1450,9 @@
     <option name="width" value="1892" />
     <option name="height" value="978" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -1406,6 +1491,14 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="app.component" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="fdemossResume3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fdemossResume3" type="462c0819:PsiDirectoryNode" />
+              <item name="fdemossResume3Ui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="personalInterests.component" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1420,8 +1513,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/fdemossResume3Ui/src/app" />
-      <recent name="$PROJECT_DIR$/fdemossResume3Ui/src" />
+      <recent name="$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component" />
+      <recent name="$PROJECT_DIR$/fdemossResume3Ui/src/app/appComponent" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1446,27 +1542,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550514350640</updated>
-      <workItem from="1550515348394" duration="16000" />
-      <workItem from="1550515391690" duration="4062000" />
+      <workItem from="1551405195778" duration="3698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4078000" />
+    <option name="totallyTimeSpent" value="4303000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1892" height="978" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3291714" />
-      <window_info anchor="bottom" id="TypeScript" weight="0.3291714" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25513515" />
-      <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.45629966" />
+      <window_info anchor="bottom" id="TypeScript" order="12" weight="0.3291714" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25243244" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -1475,8 +1569,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
@@ -1486,6 +1580,66 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/property-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/property-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/property-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/class-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/class-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/constructor-checks.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/input-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/input-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/input-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/output-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/output-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/output-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/element-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/element-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/element-selectors.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/method-call-checks.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/index.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/index.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/index.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/css-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/css-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/css-selectors.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/material/schematics/ng-update/data/attribute-selectors.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/property-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/property-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/property-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/class-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/class-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/class-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/constructor-checks.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/input-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/input-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/input-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/output-names.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/output-names.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/output-names.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/element-selectors.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/method-call-checks.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/index.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/index.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/index.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/css-selectors.js.map" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.js" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.d.ts" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/node_modules/@angular/cdk/schematics/ng-update/data/attribute-selectors.js.map" />
       </list>
     </option>
   </component>
@@ -1495,8 +1649,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        <state relative-caret-position="480">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -1504,30 +1658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.chalice/config.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1535,13 +1665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/notes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -1569,22 +1692,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-499" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/appComponent/appComponent.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/appComponent/appComponent.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/home/home.component.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -1593,21 +1705,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/home/home.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/home/home.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-119">
-          <folding>
-            <element signature="e#0#69#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-119" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/test/test.component.html">
@@ -1626,45 +1728,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-644">
           <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#58#0" expanded="true" />
-            <element signature="e#266#322#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.routing.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app-routing.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/data.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="84" selection-start-line="11" selection-start-column="84" selection-end-line="11" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-39">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1675,12 +1751,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="107" column="132" selection-start-line="107" selection-start-column="132" selection-end-line="107" selection-end-column="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.chalice/config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/FaithDeMossProfile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="98" column="10" selection-start-line="98" selection-start-column="10" selection-end-line="98" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="12" selection-end-line="103" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="127" selection-start-line="29" selection-start-column="95" selection-end-line="29" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="119" column="138" selection-start-line="119" selection-start-column="138" selection-end-line="119" selection-end-column="138" />
+        <state relative-caret-position="1545">
+          <caret line="108" column="12" lean-forward="true" selection-start-line="108" selection-start-column="12" selection-end-line="108" selection-end-column="12" />
           <folding>
-            <element signature="e#0#77#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#td#1;n#tr#0;n#table#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -1688,39 +1832,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="270" selection-start-line="26" selection-start-column="258" selection-end-line="26" selection-end-column="270" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/personalInterests.component/personalInterests.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="107" column="132" selection-start-line="107" selection-start-column="132" selection-end-line="107" selection-end-column="132" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="84" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="187" column="14" selection-start-line="187" selection-start-column="14" selection-end-line="187" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/src/app/app.component/app.component2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="155" column="19" lean-forward="true" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+        <state relative-caret-position="283">
+          <caret line="47" column="215" selection-start-line="47" selection-start-column="215" selection-end-line="47" selection-end-column="215" />
         </state>
       </provider>
     </entry>

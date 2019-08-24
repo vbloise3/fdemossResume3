@@ -8,7 +8,7 @@
 #cd ~/fdemossResume3/
 #chalice generate-sdk ./fdemossResume3Ui/src
 #build the site
-cd ~/fdemossResume3/fdemossResume3Ui/
+#cd ~/fdemossResume3/fdemossResume3Ui/
 #build the site
 ng build --prod --aot
 #upload files

@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="374ee6db-29c2-4ac3-bcab-8e2d86e8ce2d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fdemossResume3Ui/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fdemossResume3Ui/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fdemossResume3Ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fdemossResume3Ui/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="200">
+              <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -61,16 +58,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="true">
+      <file leaf-file-name="buildDeploy.sh" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="21" />
+              <caret line="12" column="21" selection-start-line="12" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>8.2.3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>8.2.5</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,8 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/notes.txt" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/fdemossResume3Ui/package.json" />
         <option value="$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh" />
+        <option value="$PROJECT_DIR$/fdemossResume3Ui/package.json" />
       </list>
     </option>
   </component>
@@ -112,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,6 +162,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,16 +204,19 @@
       <workItem from="1562529110048" duration="522000" />
       <workItem from="1564343133172" duration="42000" />
       <workItem from="1566677831110" duration="1451000" />
+      <workItem from="1566682219661" duration="108000" />
+      <workItem from="1568074873473" duration="34000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6921000" />
+    <option name="totallyTimeSpent" value="7063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="999" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3887114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3972311" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -534,17 +542,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/buildDeploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-end-line="12" selection-end-column="21" />
+          <caret line="12" column="21" selection-start-line="12" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fdemossResume3Ui/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="29" lean-forward="true" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
         </state>
       </provider>
     </entry>
